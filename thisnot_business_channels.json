@@ -1,94 +1,10 @@
 {
-  "https://thisnot.business/player.php?id=DaznFreeFR": {
-    "proxy_url": "https://marcobarone-mediaflow-proxy.hf.space/proxy/hls/manifest.m3u8?api_password=mediaflow123&d=/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-co-live-gcr.gcdn.co/2o7wovnclscg11ymomxe769k1/web/stream.mpd%3Foutlet%3Ddazn-row",
-    "info": {
-      "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "MERCOLEDI 9 LUGLIO",
-      "event": "21:00 PSG - Real Madrid",
-      "channel": "Dazn",
-      "language": "",
-      "url": "https://thisnot.business/player.php?id=DaznFreeFR"
-    }
-  },
-  "https://thisnot.business/player.php?id=DaznFreeES": {
-    "proxy_url": "https://marcobarone-mediaflow-proxy.hf.space/proxy/hls/manifest.m3u8?api_password=mediaflow123&d=/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-co-live-gcr.gcdn.co/1hgoj31h2povt1246qvyjc7b1q/web/stream.mpd%3Foutlet%3Ddazn-row",
-    "info": {
-      "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "MERCOLEDI 9 LUGLIO",
-      "event": "21:00 PSG - Real Madrid",
-      "channel": "Dazn",
-      "language": "fr",
-      "url": "https://thisnot.business/player.php?id=DaznFreeES"
-    }
-  },
-  "https://thisnot.business/player.php?id=DaznHD": {
-    "proxy_url": "https://marcobarone-mediaflow-proxy.hf.space/proxy/hls/manifest.m3u8?api_password=mediaflow123&d=/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-ak-livedazn.akamaized.net/1xrwxxob1vcv81fpkptqks9rh1/web/stream.mpd%3Fchannel%3D1652%26outlet%3Ddazn-italy%26plang%3Dit%26headers%3DeyJkYXpuLXRva2VuIjoic3QlM0QxNzUyMDg1MzUzfmV4cCUzRDE3NTIxNzE3NTN%2BYWNsJTNEJTJGKn5pZCUzRDM1NDJlMTJjZWE3ZH5kYXRhJTNEY291bnRyeSUzRGl0JTIzcGF0aCUzRDFzJTJDMWQlMjNoYXNocCUzRDE2NmQwMzQ5Mjc4MjI3M2NmYTdhYWQ4NTkwOTFiODJkZTA1MTQxNDcyZDc4YmQ4OGUzYTQzZDExZTVhNGQwYmElMjNoYXNodWElM0Q5NTU5ZDFlMzVmODFkNTA1NjAyN2NjMDc2YjUxODBlYTBhODYwNjEyN2Q1NmZkZjJmODYxYzkxODVjYzE3Y2I3JTIzd20lM0QwfmhtYWMlM0QwODhmZTBhZmE2NWUxODU1ZjY5NWQ5M2UxNjE2NzMyOTIxNmY5ZGIwM2UwMmE2NGI5ZmYwNWUxN2QyNGFjNDg2In0",
-    "info": {
-      "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "MERCOLEDI 9 LUGLIO",
-      "event": "21:00 PSG - Real Madrid",
-      "channel": "Dazn",
-      "language": "es",
-      "url": "https://thisnot.business/player.php?id=DaznHD"
-    }
-  },
-  "https://thisnot.business/player.php?id=Canale5_IT": {
-    "proxy_url": "https://marcobarone-mediaflow-proxy.hf.space/proxy/hls/manifest.m3u8?api_password=mediaflow123&d=/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ce4a30a01a52e082&key=e926f7d45af4f7d154c990eae6a2d937",
-    "info": {
-      "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "MERCOLEDI 9 LUGLIO",
-      "event": "21:00 PSG - Real Madrid",
-      "channel": "Mediaset",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=Canale5_IT"
-    }
-  },
-  "https://thisnot.business/player.php?id=Channel5": {
-    "proxy_url": "https://marcobarone-mediaflow-proxy.hf.space/proxy/hls/manifest.m3u8?api_password=mediaflow123&d=/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd",
-    "info": {
-      "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "MERCOLEDI 9 LUGLIO",
-      "event": "21:00 PSG - Real Madrid",
-      "channel": "Chanel 5",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=Channel5"
-    }
-  },
-  "https://thisnot.business/player.php?id=UNIMAS": {
-    "proxy_url": "https://marcobarone-mediaflow-proxy.hf.space/proxy/hls/manifest.m3u8?api_password=mediaflow123&d=/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://streaming-live-fcdn.api.prd.univisionnow.com/umaeast/umaeast.isml/.mpd",
-    "info": {
-      "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "MERCOLEDI 9 LUGLIO",
-      "event": "21:00 PSG - Real Madrid",
-      "channel": "Unimas (USA IP)",
-      "language": "uk",
-      "url": "https://thisnot.business/player.php?id=UNIMAS"
-    }
-  },
-  "https://thisnot.business/player.php?id=France2": {
-    "proxy_url": "https://marcobarone-mediaflow-proxy.hf.space/proxy/hls/manifest.m3u8?api_password=mediaflow123&d=/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd",
-    "info": {
-      "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "MERCOLEDI 9 LUGLIO",
-      "event": "21:00 Francia - Galles",
-      "channel": "France 2",
-      "language": "es",
-      "url": "https://thisnot.business/player.php?id=France2"
-    }
-  },
   "https://thisnot.business/player.php?id=RSILA2": {
     "proxy_url": "https://marcobarone-mediaflow-proxy.hf.space/proxy/hls/manifest.m3u8?api_password=mediaflow123&d=/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd",
     "info": {
       "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "MERCOLEDI 9 LUGLIO",
+      "title": "MONDIALE PER CLUB, FINALE - USA",
+      "date": "DOMENICA 13 LUGLIO",
       "event": "21:00 Olanda - Francia",
       "channel": "RSI",
       "language": "fr",
@@ -99,8 +15,8 @@
     "proxy_url": "https://marcobarone-mediaflow-proxy.hf.space/proxy/hls/manifest.m3u8?api_password=mediaflow123&d=/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd",
     "info": {
       "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "MERCOLEDI 9 LUGLIO",
+      "title": "MONDIALE PER CLUB, FINALE - USA",
+      "date": "DOMENICA 13 LUGLIO",
       "event": "21:00 Norvegia - Islanda",
       "channel": "RAI",
       "language": "it",
@@ -111,8 +27,8 @@
     "proxy_url": "https://marcobarone-mediaflow-proxy.hf.space/proxy/hls/manifest.m3u8?api_password=mediaflow123&d=/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd",
     "info": {
       "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "MERCOLEDI 9 LUGLIO",
+      "title": "MONDIALE PER CLUB, FINALE - USA",
+      "date": "DOMENICA 13 LUGLIO",
       "event": "21:00 Italia - Spagna",
       "channel": "RAI",
       "language": "it",
@@ -123,8 +39,8 @@
     "proxy_url": "https://marcobarone-mediaflow-proxy.hf.space/proxy/hls/manifest.m3u8?api_password=mediaflow123&d=/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b",
     "info": {
       "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "MERCOLEDI 9 LUGLIO",
+      "title": "MONDIALE PER CLUB, FINALE - USA",
+      "date": "DOMENICA 13 LUGLIO",
       "event": "21:00 Portogallo - Belgio",
       "channel": "Sport•TV",
       "language": "it",
@@ -135,12 +51,48 @@
     "proxy_url": "https://marcobarone-mediaflow-proxy.hf.space/proxy/hls/manifest.m3u8?api_password=mediaflow123&d=/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd",
     "info": {
       "category": "CALCIO",
-      "title": "CAMPIONATO EUROPEO FEMMINILE - SVIZZERA",
-      "date": "MERCOLEDI 9 LUGLIO",
+      "title": "MONDIALE PER CLUB, FINALE - USA",
+      "date": "DOMENICA 13 LUGLIO",
       "event": "21:00 Inghilterra - Galles",
       "channel": "RTS",
       "language": "fr",
       "url": "https://thisnot.business/player.php?id=RTS2"
+    }
+  },
+  "https://thisnot.business/player.php?id=Canale5_IT": {
+    "proxy_url": "https://marcobarone-mediaflow-proxy.hf.space/proxy/hls/manifest.m3u8?api_password=mediaflow123&d=/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd&key_id=00f9f3c0783536b8ce4a30a01a52e082&key=e926f7d45af4f7d154c990eae6a2d937",
+    "info": {
+      "category": "CALCIO",
+      "title": "MONDIALE PER CLUB, FINALE - USA",
+      "date": "DOMENICA 13 LUGLIO",
+      "event": "21:00 PSG - Chelsea",
+      "channel": "Mediaset",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=Canale5_IT"
+    }
+  },
+  "https://thisnot.business/player.php?id=Channel5": {
+    "proxy_url": "https://marcobarone-mediaflow-proxy.hf.space/proxy/hls/manifest.m3u8?api_password=mediaflow123&d=/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd",
+    "info": {
+      "category": "CALCIO",
+      "title": "MONDIALE PER CLUB, FINALE - USA",
+      "date": "DOMENICA 13 LUGLIO",
+      "event": "21:00 PSG - Chelsea",
+      "channel": "Chanel 5",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=Channel5"
+    }
+  },
+  "https://thisnot.business/player.php?id=SAT1": {
+    "proxy_url": "https://marcobarone-mediaflow-proxy.hf.space/proxy/hls/manifest.m3u8?api_password=mediaflow123&d=/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://p7s1-live-009-prod.akamaized.net/27a90190/t_009/sat1-de-hd/cenc-default.mpd&key_id=540313f2e5eda2c17df277afc085f33c&key=3a2ac903e4299a7815111e256369d9d4",
+    "info": {
+      "category": "CALCIO",
+      "title": "MONDIALE PER CLUB, FINALE - USA",
+      "date": "DOMENICA 13 LUGLIO",
+      "event": "21:00 PSG - Chelsea",
+      "channel": "Sat.1",
+      "language": "uk",
+      "url": "https://thisnot.business/player.php?id=SAT1"
     }
   },
   "https://thisnot.business/player.php?id=ITA_SportTennis": {
@@ -151,7 +103,7 @@
       "date": "LUNEDI 30 GIUGNO - DOMENICA 13 LUGLIO",
       "event": "12:00 Best Match",
       "channel": "Sky Sport",
-      "language": "it",
+      "language": "de",
       "url": "https://thisnot.business/player.php?id=ITA_SportTennis"
     }
   },
