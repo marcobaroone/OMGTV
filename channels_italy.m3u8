@@ -354,6 +354,9 @@ https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/main/proxy.php/proxy/m3u?url
 #EXTINF:-1 tvg-id="la1.it" tvg-name="Rsi La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1 (V)
 https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/main/proxy.php/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/24556102030a38fc13c387&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="la1.it" tvg-name="Rsi La 1 (2)" tvg-logo="" group-title="Altro",RSI LA 1 (V) (2)
+https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/main/proxy.php/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="la2.it" tvg-name="Rsi La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2 (V)
 https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/main/proxy.php/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3590183307ca309aa6be37&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -534,6 +537,9 @@ https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/main/proxy.php/proxy/m3u?url
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio (2)" tvg-logo="" group-title="Sport",SKY SPORT CALCIO (V) (2)
 https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/main/proxy.php/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/449990998077a7691828f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (V)
+https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/main/proxy.php/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/42467740561588897497f2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL (V)
 https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/main/proxy.php/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/309353533094c3ad269514&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -638,6 +644,9 @@ https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/main/proxy.php/proxy/m3u?url
 
 #EXTINF:-1 tvg-id="tv8.it" tvg-name="Tv 8 (2)" tvg-logo="" group-title="Sky",TV 8 (V) (2)
 https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/main/proxy.php/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2706291008928411daf9bb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="warnertv.it" tvg-name="Warner Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Warner_TV_Italy.svg/1200px-Warner_TV_Italy.svg.png" group-title="Discovery",WARNER TV (V)
+https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/main/proxy.php/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3171202588cf85ec4cba3f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="wwechannel.it" tvg-name="Wwe Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Discovery",WWE CHANNEL (V)
 https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/main/proxy.php/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
